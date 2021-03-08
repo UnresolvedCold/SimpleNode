@@ -1,0 +1,11 @@
+{
+  "name": "simplenode",
+  "version": "1.0.0",
+  "description": "A simple webserver to do things",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "author": "Shubham Kumar",
+  "license": "ISC"
+}
